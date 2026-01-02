@@ -1,6 +1,6 @@
 # Hand Gesture Recognition — Frontend
 
-This is a small frontend webapp that recognizes simple hand gestures (open palm, fist, thumbs-up) using MediaPipe Hands.
+This is a small frontend webapp that recognizes simple hand gestures (open palm, fist, thumbs-up) using MediaPipe Hands.Page Preview(https://yusufsamodien12-hub.github.io/Hand-Gesture-Recognistion-/)
 
 Quick start
 - Open [index.html](index.html) in a modern browser and allow camera access.
